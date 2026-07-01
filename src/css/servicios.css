@@ -1,0 +1,26 @@
+.titulo-unico{
+    color: blue;
+    text-align: center;
+}
+
+.contenedor-servicios{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    height: 200px;
+}
+
+.caja{
+    background-color: salmon;
+    text-align: center;
+    font-size: 20px;
+}
+
+.caja1{
+    grid-area: 1/1/2/4;
+}
+
+.caja2{
+    grid-area: 2/1/4/3;
+}
