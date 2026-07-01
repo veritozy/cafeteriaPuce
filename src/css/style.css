@@ -23,7 +23,7 @@ body{
   justify-content:space-around;
   align-items: center;
   padding: 15px 40px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+  box-shadow: 0 4px 10px rgb(172, 36, 36);
   z-index: 1000;
 }
 
@@ -63,7 +63,7 @@ body{
   background-color: beige;
   padding: 25px;
   width: 400px;
-  border-radius: 15px;
+  border-radius: 45px;
   height: 400px;
   box-shadow:0 4px 10px peachpuff;
 }
